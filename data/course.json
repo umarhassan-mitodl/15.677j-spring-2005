@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Labor Economics"
+    ],
+    [
+      "Business",
+      "Industrial Relations and Human Resource Management"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "ec4323fa-1861-054c-1a5a-d6e03af650b5",
+  "instructors": {
+    "content": [
+      "87f4cf6a-22b7-d352-af12-fa3ee5cdbd64"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bdb5f651-751b-1947-8d5d-37007ce4ddb5",
+    "website": "15-677j-urban-labor-markets-and-employment-policy-spring-2005"
+  },
+  "course_title": "Urban Labor Markets and Employment Policy",
+  "course_description": "This subject discusses the broader trends in the labor market, how urban labor markets function, public and private training policy, other labor market programs, the link between labor market policy and economic development, and the organization of work within firms.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.677J",
+  "course_image_thumbnail": {
+    "content": "a4046228-d2a3-4900-f3f6-e1ecbc0e4fec",
+    "website": "15-677j-urban-labor-markets-and-employment-policy-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "e7c454b6-a345-495f-87fe-86c1e48b7790",
+  "site_short_id": "15.677j-spring-2005",
+  "site_url_path": "courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005",
+  "title": "Course Metadata"
+}
