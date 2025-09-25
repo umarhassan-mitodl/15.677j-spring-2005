@@ -75,7 +75,7 @@ Blank, R. _Social Protection vs. Economic Flexibility: Is There A Tradeoff?_ Chi
 
 _Outcomes_
 
-{{% resource_link "75905cfc-0ccd-4948-967e-d84b5f7c2697" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Osterman, P., T. Kochan, M. Piore, and R. Locke. {{% resource_link "75905cfc-0ccd-4948-967e-d84b5f7c2697" "_Working In America_" %}}_._ Cambridge, MA: MIT Press, 2002, chapter 2. ISBN: 0262650622.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/working-america) Osterman, P., T. Kochan, M. Piore, and R. Locke. [_Working In America_](https://mitpress.mit.edu/books/working-america)_._ Cambridge, MA: MIT Press, 2002, chapter 2. ISBN: 0262650622.
 
 Osterman, P. _Securing Prosperity._ Princeton, NJ: Princeton University Press, 2000, chapter 1, and 2. ISBN: 0691086885.
 
@@ -139,9 +139,9 @@ Osterman, P. _Securing Prosperity._ Princeton, NJ: Princeton University Press, 2
 
 Houseman, S. "Flexible Staffing Arrangements." Working Paper. Kalamazoo, MI: W. E. UpJohn Institute of Employment in the United States, 1999.
 
-{{% resource_link "869de5d1-d655-4e1b-99ba-e202687516a2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} _Internal Labor Markets, Networks, Structure  
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/internal-labor-markets) _Internal Labor Markets, Networks, Structure  
 _  
-Osterman, P., ed. "Introduction." In {{% resource_link "869de5d1-d655-4e1b-99ba-e202687516a2" "_Internal Labor Markets_" %}}. Cambridge, MA: MIT Press, 1984. ISBN: 0262150263.
+Osterman, P., ed. "Introduction." In [_Internal Labor Markets_](https://mitpress.mit.edu/books/internal-labor-markets). Cambridge, MA: MIT Press, 1984. ISBN: 0262150263.
 
 Piore, M. "Notes for A Theory of Labor Market Stratification." MIT Working Paper_._ Department of Economics, 1972.
 
@@ -173,7 +173,7 @@ Weir, M. _Politics and Jobs._ Princeton, NJ: Princeton University Press, 1993, c
 
 _America's Choice: High Skills or Low Wages._ National Center on Education and Economy, 1990, Executive Summary, and chapters 2 and 12. ISBN: 0962706302.
 
-{{% resource_link "ee6a03fd-64d7-4c19-a394-e223811b7f41" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Heckman, J., and A. Krueger. {{% resource_link "ee6a03fd-64d7-4c19-a394-e223811b7f41" "_Inequality In America: What Role for Human Capital Policies?_" %}} Cambridge, MA: MIT Press, 2004, pp. 1-76. ISBN: 0262083280.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/inequality-america) Heckman, J., and A. Krueger. [_Inequality In America: What Role for Human Capital Policies?_](https://mitpress.mit.edu/books/inequality-america) Cambridge, MA: MIT Press, 2004, pp. 1-76. ISBN: 0262083280.
 
 Osterman, P. _Employment Futures._ New York, NY: Oxford University Press, 1988, chapter 6. ISBN: 019505279X.
 
@@ -241,11 +241,11 @@ Fitzgerald, J., and V. Carlson. "Ladders To A Better Life." _The American Prospe
 
 Giloth, R., ed. "Introduction," "Poppe, Shawn, and Martison," "Kazis," "Carnevale," and "Berry." Chapters 1, 2, 3, 7, and 8 in _Workforce Intermediaries In the Twenty-First Century_. Philadelphia, PA: Temple University Press, 2003. ISBN: 1592132049.
 
-Clark, P., and S. Dawson. _Jobs and the Urban Poor._ Aspen, CO: Aspen Institute, 2005, pp. 1-33. ({{% resource_link "d09dd3e3-0927-42bb-b839-7c2d3266460e" "PDF" %}}){{< sup "#" >}}
+Clark, P., and S. Dawson. _Jobs and the Urban Poor._ Aspen, CO: Aspen Institute, 2005, pp. 1-33. ([PDF](http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/JobsUrbanPoor.pdf)){{< sup "#" >}}
 
-Conway, M., and S. Loker. "Garment Industry Development Corporation: A Case Study of a Sectoral Employment Development Approach." Working Paper. Aspen, CO: {{% resource_link "61610a56-b2eb-4aab-aee5-0e69cabaee98" "Aspen Institute" %}}, 1999.
+Conway, M., and S. Loker. "Garment Industry Development Corporation: A Case Study of a Sectoral Employment Development Approach." Working Paper. Aspen, CO: [Aspen Institute](http://www.aspeninstitute.org/), 1999.
 
-Glasmeier, A., C. Nelson, and J. Thompson. "Jane Addams Resource Corp: A Case Study of a Sectoral Employment Development Approach." Working Paper. Aspen, CO: {{% resource_link "61610a56-b2eb-4aab-aee5-0e69cabaee98" "Aspen Institute" %}}, 1999.
+Glasmeier, A., C. Nelson, and J. Thompson. "Jane Addams Resource Corp: A Case Study of a Sectoral Employment Development Approach." Working Paper. Aspen, CO: [Aspen Institute](http://www.aspeninstitute.org/), 1999.
 
 Rangarajan, A. "Staying On, Moving Up: Strategies to Help Low Wage Workers Retain Employment and Advance in Their Jobs." Working Paper. Princeton, NJ: Mathematica Policy Research, 2000.
 
@@ -283,7 +283,7 @@ Turner, B. "Union Innovations: Moving Workers from Poverty into Family Sustainin
 
 Erickson, C. "Justice for Janitors in Los Angeles." _British Journal of Industrial Relations_ 40 (April 2002): 543-567.
 
-{{% resource_link "75905cfc-0ccd-4948-967e-d84b5f7c2697" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Osterman, P., T. Kochan, M. Piore, and R. Locke. {{% resource_link "75905cfc-0ccd-4948-967e-d84b5f7c2697" "_Working In America_" %}}_._ Cambridge, MA: MIT Press, 2002, chapter 4. ISBN: 0262650622.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/working-america) Osterman, P., T. Kochan, M. Piore, and R. Locke. [_Working In America_](https://mitpress.mit.edu/books/working-america)_._ Cambridge, MA: MIT Press, 2002, chapter 4. ISBN: 0262650622.
 
 _Living Wage Campaigns_
 
