@@ -6,6 +6,8 @@ description: This file covers the topic of labor economics with the help of expl
 file: /courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/3d4bcd527a2824a538d1b28a80958bba_notes3.pdf
 file_size: 53708
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

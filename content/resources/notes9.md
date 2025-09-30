@@ -7,6 +7,8 @@ description: This file explains the local experience of job training offered by 
 file: /courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/d7eca3912c0d97fd1e417a5b683da363_notes9.pdf
 file_size: 51345
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
