@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: A sample of course notes taken by a student of the class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

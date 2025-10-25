@@ -5,8 +5,6 @@ description: This file explains the topic of union attempts to improve jobs for 
 file: /courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/aaedb792aff373149de6b21e1942fb80_notes8.pdf
 file_size: 32224
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
